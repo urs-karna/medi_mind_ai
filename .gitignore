@@ -1,0 +1,39 @@
+venv/
+.venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Packaging / build outputs
+build/
+dist/
+site/
+*.egg-info/
+pip-wheel-metadata/
+
+# Local tooling and editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# App/runtime artifacts
+logs/
+*.log
+
+app.log

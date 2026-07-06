@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+
+python-jose
+passlib[bcrypt]
+bcrypt==3.2.2
+
+google-generativeai
+langchain
+langgraph
+langchain-google-genai
+
+# //vector db 
+pinecone
+
+pydantic
+pydantic-settings
+
+
+streamlit
