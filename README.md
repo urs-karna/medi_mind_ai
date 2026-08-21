@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🩺 MediMind AI
 
@@ -913,32 +913,3 @@ Based on the current architecture, the following enhancements are natural extens
 - Demonstrates a **production pattern for healthcare AI** with strict safety boundaries
 - Showcases **multi-agent orchestration** balancing deterministic accuracy (History Agent) with generative intelligence (RAG Chat)
 - Implements **responsible AI practices**: grounding, citation, confidence gating, and explicit fallback behavior
-
----
-
-## 👨‍💻 Author
-
-<div align="center">
-
-### **Harish Tholeti**
-
-**AI Engineer · Generative AI Developer · Full-Stack Backend Engineer**
-
-Building intelligent systems at the intersection of healthcare, AI, and software engineering.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-tholeti)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harish-tholeti)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harish-tholeti.dev)
-
-</div>
-
----
-
-<div align="center">
-
-**Built with ❤️ and responsible AI principles**
-
-*MediMind AI is an educational and portfolio project. It is not intended for clinical use without proper medical validation, regulatory compliance, and professional oversight.*
-
-</div>
-]]>
