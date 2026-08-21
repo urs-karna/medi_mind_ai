@@ -21,7 +21,7 @@
 
 *An enterprise-grade healthcare intelligence platform that transforms medical documents into actionable clinical insights through multimodal AI vision, autonomous agent orchestration, Retrieval-Augmented Generation (RAG), and deterministic patient safety gates.*
 
-[Features](#-key-features) · [Architecture](#-system-architecture) · [AI Agents](#-ai-agent-architecture) · [RAG Pipeline](#-rag-architecture) · [Tech Stack](#-technology-stack) · [Getting Started](#-getting-started) · [API Reference](#-api-endpoints) · [Author](#-author)
+[Features](#key-features) · [Architecture](#system-architecture) · [AI Agents](#ai-agent-architecture) · [RAG Pipeline](#rag-architecture) · [Tech Stack](#technology-stack) · [Getting Started](#getting-started) · [API Reference](#api-endpoints) · [Author](#author)
 
 </div>
 
