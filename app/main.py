@@ -21,7 +21,9 @@ from routers.database_router import router as database_router
 from routers.document_router import router as document_router
 from routers.health_router import router as health_router
 from routers.patient_profile_router import router as patient_profile_router
+from routers.records_router import router as records_router
 from routers.retrieval_router import router as retrieval_router
+from routers.timeline_router import router as timeline_router
 
 logger = get_logger(__name__)
 
@@ -92,7 +94,9 @@ def create_app() -> FastAPI:
     application.include_router(document_router, prefix=API_PREFIX)
     application.include_router(health_router, prefix=API_PREFIX)
     application.include_router(patient_profile_router, prefix=API_PREFIX)
+    application.include_router(records_router, prefix=API_PREFIX)
     application.include_router(retrieval_router, prefix=API_PREFIX)
+    application.include_router(timeline_router, prefix=API_PREFIX)
     logger.info("FastAPI application initialized")
     return application
 
